@@ -77,8 +77,14 @@ async function init() {
 
     const markdown = generateMarkdown(userData);
 
-    console.log(markdown);
-    
+    //console.log(markdown);
+    fs.writeFile('READMEexample.md', markdown, (err) => {
+        if (err) {
+          console.log(err);
+        } else {
+          console.log(`Success`);
+        }
+    });
    
  }
 
