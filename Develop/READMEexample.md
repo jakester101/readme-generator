@@ -1,38 +1,39 @@
-# Title
+# This is the Title
 
-    ## Description
 
-    Desc
+  ## Description
 
-    ## Table of Contents
+  This is the description
 
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+  ## Table of Contents
 
-    ## Installation
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-    Instal
+  ## Installation
 
-    ## Usage
+  git clone
 
-    use me
+  ## Usage
 
-    ## License
+  this makes a README file
 
-    This project is licensed under the GNU General Public License v3.0.
+  ## License
 
-    ## Contributing
+  This project is licensed under the MIT License.
 
-    no
+  ## Contributing
 
-    ## Tests
+  Jake Hester contributed
 
-    test
+  ## Tests
 
-    ## Questions
+  test instructions go here
 
-    If you have any questions, please feel free to reach out to me on [GitHub](https://github.com/git) or via email at jakester101.
+  ## Questions
+
+  If you have any questions, please feel free to reach out to me on [GitHub](https://github.com/jakester101) or via email at jakester101@gmail.com.

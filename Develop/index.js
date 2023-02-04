@@ -6,8 +6,6 @@ const fs = require('fs');
 
 
 
-
-
 const questions = [
     {
       type: 'input',
@@ -62,15 +60,10 @@ const questions = [
     }
   ];
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    
-}
 
 
 
-
-// use async and wait to avoid async shenanigans 
+// use async and wait to avoid async shenanigans with inquirer
 async function init() {
         
     const userData = await inquirer.prompt(questions);
@@ -85,7 +78,6 @@ async function init() {
           console.log(`Success`);
         }
     });
-   
  }
 
 
