@@ -73,9 +73,12 @@ function writeToFile(fileName, data) {
 // use async and wait to avoid async shenanigans 
 async function init() {
         
-     let userData = await inquirer.prompt(questions);
-    
+    const userData = await inquirer.prompt(questions);
 
+    const markdown = generateMarkdown(userData);
+
+    console.log(markdown);
+    
    
  }
 
