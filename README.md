@@ -1,11 +1,8 @@
-# README GENERATOR
+# README.md Generator
 
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/jakester101/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/jakester101/readme-generator?style=flat&logo=appveyor)
-  
-  
   ## Description 
   
-  This is a nod.js app that runs on the command line using an npm package called inquirer, and based on your answers to the questions will then generate a README file for your project
+  This is a node.js app that runs on the command line using an npm package called inquirer, and based on your answers to the questions will then generate a README file for your project
 
   ## Table of Contents
   * [Installation](#installation)
@@ -29,8 +26,6 @@
   ---
   
   ## Questions?
-
-  <img src="https://avatars.githubusercontent.com/u/55941541?v=4" alt="jakester101" width="40%" />
   
   For any questions, please contact me with the information below:
  
